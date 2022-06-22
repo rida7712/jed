@@ -14,7 +14,7 @@ OWNER_NAME = os.getenv("ࢪﺿـاۅي اެبن الـدورة")
 CHANNEL = os.getenv("x02x2")
 PHOTO_CH = os.getenv("https://l.top4top.io/p_2363dcjiw1.jpg")
 HNDLR = os.getenv("HNDLR", "#")
-SUDO_USERS = list(map(int, os.getenv("SUDO_USERS").split()))
+SUDO_USERS = list(map(int, os.getenv("1254750804").split()))
 
 
 contact_filter = filters.create(
