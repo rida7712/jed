@@ -1,14 +1,14 @@
 {
     "name": "سورس ميوزك جيبثون",
-    "description": "اهلا بك في تنصيب ميوزك جيبثون مجانا @Jepthon",
-    "logo": "https://telegra.ph/file/66ec52e60aff4ce906336.jpg",
+    "description": "اهلا بك في تنصيب ميوزك ابن الدورة مجانا @x02x2",
+    "logo": "https://l.top4top.io/p_2363dcjiw1.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "jepthon",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/lMl10l/MusicJep",
+    "repository": "https://github.com/rida7712/jed",
     "env": {
         "SESSION": {
             "description": "هنا ضع كود البايروكرام",
@@ -47,7 +47,7 @@
             "url": "heroku/python"
         },
         {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+            "urlk": "https://github.com/rida7712/heroku-buildpack-ffmpeg-latest"
         }
     ],
     "formation": {
