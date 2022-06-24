@@ -49,7 +49,7 @@
         {
             "urlk": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
         }
-        }
+        
     ],
     "formation": {
         "worker": {
