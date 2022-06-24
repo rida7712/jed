@@ -45,10 +45,10 @@
     "buildpacks": [
         {
             "url": "heroku/python"
-        },
+        }
         {
             "urlk": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-        }"
+        }
         }
     ],
     "formation": {
